@@ -18,12 +18,6 @@ The complete AuthorityBench dataset is publicly available on Hugging Face:
 
 **🤗 [Download AuthorityBench on Hugging Face](https://huggingface.co/datasets/Trustworthy-Information-Access/AuthorityBench)**
 
-The benchmark consists of three subsets:
-
-- **DomainAuth:** 10K web domains annotated with PageRank-based authority scores.
-- **EntityAuth:** 22K entities across basketball, movies, and songs, annotated with popularity-based authority scores.
-- **RAGAuth:** 120 yes/no questions paired with retrieved documents of varying authority.
-
 
 ## 📂 Repository Structure
 
